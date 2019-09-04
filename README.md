@@ -2,7 +2,8 @@
 
 Simple Chrome extension helping to debug CSS.
 
-Based on amazing hack by @gajus
+Based on amazing hack by [@gajus](http://github.com/gajus)
+
 https://dev.to/gajus/my-favorite-css-hack-32g3
 
 ## How to install
