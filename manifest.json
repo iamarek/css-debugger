@@ -1,0 +1,30 @@
+{
+    "name": "CSS Debugger",
+    "description": "Helps to debug padding, margin, flexbox etc. on your website.",
+    "version": "1.2",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+        {
+         "matches": [
+           "<all_urls>"
+         ],
+         "js": ["css-debugger.js"]
+        }
+    ],
+    "browser_action": {
+        "default_title": "CSS Debugger"
+    },
+    "icons": {
+      "16": "images/get_started16.png",
+      "32": "images/get_started32.png",
+      "48": "images/get_started48.png",
+      "128": "images/get_started128.png"
+    },
+    "manifest_version": 2
+  }
