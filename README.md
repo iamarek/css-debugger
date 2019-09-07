@@ -8,7 +8,10 @@ https://dev.to/gajus/my-favorite-css-hack-32g3
 
 ## How to install
 
-Open chrome://extensions and drag&drop the whole folder in there.
+1. Clone or download this repo into a folder.
+1. Go to chrome://extensions
+2. Make sure **Developer mode** (in the upper right corner) is ON.
+3. Drag & drop the folder that contains this repo there.
 
 ## How to use
 
