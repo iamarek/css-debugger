@@ -16,4 +16,3 @@ https://dev.to/gajus/my-favorite-css-hack-32g3
 ## How to use
 
 1. Click on the icon of extension to toggle debugger.
-
